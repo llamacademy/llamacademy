@@ -16,7 +16,7 @@ So far I have:
   - Many other non-episodic content videos 😉
 
 ### Support
-If you want to show your support for the cause ❤, you can go to the [LlamAcademy Patreon](https://patreon.com/LlamAcademy) or [Join as a YouTube Member](https://www.youtube.com/channel/UCnWm6pMD38R1E2vCAByGb6w/join) to make a monthly or one-time contribution. By becoming a supporter on either, you get shouted out on every new repository and video during your support timeframe and get access to exclusive polls to help drive the channel direction and get priority support.
+If you want to show your support for the cause ❤, you can become a [GitHub Sponsor](https://github.com/sponsors/llamacademy), go to the [LlamAcademy Patreon](https://patreon.com/LlamAcademy), or [Join as a YouTube Member](https://www.youtube.com/channel/UCnWm6pMD38R1E2vCAByGb6w/join) to make a monthly or one-time contribution. By becoming a supporter on either, you get shouted out on every new repository and video during your support timeframe and get access to exclusive polls to help drive the channel direction and get priority support.
 
 If you don't have extra 💸 or don't want to directly contribute in that way, you can use one of the following affiliate links which will have a small portion of any purchase go to support me, at no additional cost to you.
  - There are sometimes [Humble Bundles](https://www.humblebundle.com/software/?partner=llamasoftware) for Unity and GameDev assets and courses.
