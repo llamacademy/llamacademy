@@ -25,3 +25,5 @@ If you don't have extra 💸 or don't want to directly contribute in that way, y
  - View the weekly [Asset Store Publisher Sale](https://assetstore.unity.com/publisher-sale?aid=1101l9QvC) where in 2023 there is a **FREE ASSET** every week!
 
 If _you_ need support or have questions, you can of course leave a comment on the video, or send an email to support@llama.software and I'll do my best to help you out.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamacademy&show_icons=true&theme=radical)
