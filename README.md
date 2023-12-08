@@ -26,4 +26,4 @@ If you don't have extra 💸 or don't want to directly contribute in that way, y
 
 If _you_ need support or have questions, you can of course leave a comment on the video, or send an email to support@llama.software and I'll do my best to help you out.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamacademy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamacademy&show_icons=true&theme=dark)
