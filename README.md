@@ -24,6 +24,6 @@ If you don't have extra 💸 or don't want to directly contribute in that way, y
  - You can shop current sales on the [Asset Store](https://assetstore.unity.com/?on_sale=true&orderBy=0&rows=96&clickref=1100lwtudvMJ&utm_source=partnerize&utm_medium=affiliate&utm_campaign=unity_affiliate&aid=1101l9QvC)
  - View the weekly [Asset Store Publisher Sale](https://assetstore.unity.com/publisher-sale?aid=1101l9QvC) where in 2023 there is a **FREE ASSET** every week!
 
-If _you_ need support or have questions, you can of course leave a comment on the video, or send an email to support@llama.software and I'll do my best to help you out.
+If _you_ need support or have questions, you can of course leave a comment on the video, or open a question on GitHub. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamacademy&show_icons=true&theme=dark)
