@@ -9,10 +9,11 @@ I strive to show you a _scalable_ and _sustainable_ way to implement systems, be
 You can find the tutorials on the [LlamAcademy YouTube](https://www.youtube.com/c/LlamAcademy/). Each tutorial is accompanied by a full project repository here 🎉. The only things not included are the occasional Asset Store package that I cannot post publicly. Those dependencies are linked in the readme for each project.
 
 So far I have:
- - Over 40 videos in the ⚙ [AI Series](https://www.youtube.com/watch?v=aHFSDcEQuzQ&list=PLllNmP7eq6TSkwDN8OO0E8S6CWybSE_xC)
+ - Over 50 videos in the ⚙ [AI Series](https://www.youtube.com/watch?v=aHFSDcEQuzQ&list=PLllNmP7eq6TSkwDN8OO0E8S6CWybSE_xC)
  - A more advanced tutorial series on creating a 💥 [Scriptable Object Gun System](https://www.youtube.com/watch?v=E-vIMamyORg&list=PLllNmP7eq6TQJjgKJ6FKcNFfRREe_L6to)
  - Several Bullet and 🚀 [Bullet VFX](https://www.youtube.com/watch?v=cI3E7_f74MA&list=PLllNmP7eq6TRy4IPYo31iGF1a5plxMJ7u) tutorials
  - A few videos into the 👨‍💻 [Introduction to Unity C#](https://www.youtube.com/watch?v=SXaa61JWLDw&list=PLllNmP7eq6TTjwoyfRYAAFOH1sMHVgI1r) series
+ - Some Free and Open [Source Microgame Projects](https//llamacademy.itch.io/)
   - Many other non-episodic content videos 😉
 
 ### Support
